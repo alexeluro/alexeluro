@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...Android Development, Java, Kotlin, Pasta and Shawarma
 - 📫 How to reach me: ...[Gmail](alexeluro@gmail.com) or [LinkedIn](https://linkedin.com/in/eluro-alex-660826197/)
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...Get me a nice violent adventure/horror game with shawarma and I'll tell you anything 
+- ⚡ Fun fact: ...I'm a secret foodie 
 -->
