@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as ...Android Developer at [Gloabal Accelerex](https://www.linkedin.com/company/global-accelerex-ltd-/)
+- 🔭 I’m currently working as ...Android Developer at [Global Accelerex](https://www.linkedin.com/company/global-accelerex-ltd-/)
 - 🌱 I’m currently learning ...Jetpack Compose
 - 👯 I’m looking to collaborate on ...Android Development with Kotlin and Java
 - 🤔 I’m looking for help with ...Software Gigs
